@@ -1,0 +1,10 @@
+print("=== Konverter Suhu Sederhana ===")
+print("1. Celsius ke Fahrenheit")
+print("2. Celsius ke Kelvin")
+print("3. Fahrenheit ke Celsius")
+print("4. Fahrenheit ke Kelvin")
+print("5. Kelvin ke Celsius")
+print("6. Kelvin ke Fahrenheit")
+
+pilihan = int(input("Pilih konversi (1-6): "))
+nilai = float(input("Masukkan nilai suhu: "))
