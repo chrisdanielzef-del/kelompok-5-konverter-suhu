@@ -27,7 +27,7 @@ Tidak diperlukan instalasi library tambahan karena program hanya menggunakan fun
 Panduan Menjalankan:  
 1. Buka terminal atau command prompt.  
 2. Jalankan program dengan perintah:  
-   python app.py  
+   bagian4.py  
 3. Program akan menampilkan menu pilihan konversi suhu (1–6).  
 4. Masukkan angka sesuai jenis konversi yang diinginkan.  
 5. Masukkan nilai suhu yang ingin dikonversi.  
