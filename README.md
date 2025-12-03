@@ -52,6 +52,22 @@ Tampilkan Hasil Konversi
 ↓  
 Selesai  
 
+
+Contoh Output Program
+
+===== KONVERTER SUHU SEDERHANA =====
+1. Celsius → Fahrenheit
+2. Celsius → Kelvin
+3. Fahrenheit → Celsius
+4. Fahrenheit → Kelvin
+5. Kelvin → Celsius
+6. Kelvin → Fahrenheit
+
+Pilih jenis konversi: 1
+Masukkan nilai suhu: 25
+Hasil: 25.00°C = 77.00°F
+
+
 Penjelasan:  
 - Program dimulai dengan menampilkan menu konversi.  
 - Pengguna memilih jenis konversi dengan memasukkan angka 1–6.  
