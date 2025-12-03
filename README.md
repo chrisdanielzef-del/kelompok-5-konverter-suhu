@@ -66,3 +66,5 @@ Penjelasan:
 |---------------------|----------------|--------------------------------------------|  
 | Christian Momongan  | 210211060128   | https://github.com/chrisdanielzef-del      |  
 | Kevin Rampen        | 250211060084   | https://github.com/kev277777               |  
+| Mikha Susanto       |  250211060067  | https://github.com/Yuichizzx               |
+
